@@ -1,7 +1,6 @@
 # getcv2-rpi
 Easily install opencv on raspberry pi in just 10 minutes and just 2 commands <br>
 While most methods will take hours, getcv2-rpi will seamlessly install opencv and its dependencies in JUST 10 MINUTES<br>
-<a href="https://medium.com/@ctrlfizz/install-opencv-on-a-raspberry-pi-in-just-10-minutes-9f6044ef57b6">Blog post</a>
 
 1. Download / Clone this repository on your raspberry pi <br>
 2. Run the following commands from the getcv2-rpi folder <br>
